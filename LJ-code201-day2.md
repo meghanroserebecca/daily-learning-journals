@@ -17,3 +17,5 @@ git checkout -b [new branch name] both creates and moves you to a new branch. <b
 In order to push this new branch to GitHub we need to clarify in the push command that we are pushing origin [name of new branch]</p>
 
 <p>Pull Requests allow us to work together all over the world.</p>
+
+Today we learned the basics of merging CSS, HTML and JS files. It has been fun!
