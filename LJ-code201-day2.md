@@ -1,3 +1,7 @@
+# LJ Code 201 - Day 1
+<p>Today we worked on evaluating conditions and making conditional statements using if/else in javascript. We also combined js html & css files in this project, giving us a taste for how they all work together.<br />
+My project ran through the script from the battle of wits scene in the princess bride, prompting users to respond to variants of vizzini's and westley's questions and giving alert responses based on input.</p>
+<p>We also worked on Branching</p>
 <p>Branching! 'Origin' is your default main remote, and 'master' is your default main branch of your repository.<br />
 Basic git Workflow: modify, add, commit.<br />
 Imagine your repo is code for a vital website.<br />
