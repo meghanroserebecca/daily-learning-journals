@@ -1,5 +1,7 @@
 # LJ Code 201 - Day 4
 
+<p> Today I learned more about reasoning through javascript problems - such as how to find sums and products of the contents of arrays using for loops inside of functions. I waver between despair and triumph, but am so far overall loving the ride. </p>
+
 <p>*If* code needs to run *multiple times*, it needs a loop!</p>
 
 <p>Does the code need to do something *different* depending on input to variables? We need a *conditional*. If/else or switch.</p>
